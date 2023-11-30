@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1 style="font-family: 'Montserrat', sans-serif; font-size: 48px; color: #0FF0FC; font-weight: bold; text-shadow: 2px 2px 5px #0ff0fcbe;"> Muhammad Usama </h1>
+<h1 style="font-family: 'Montserrat', sans-serif; font-size: 48px; color: #0FF0FC; font-weight: bold; text-shadow: 2px 2px 5px #0ff0fcbe;"> Muhammad Zaeem Khan </h1>
 
 **`Software Engineer`**
 
