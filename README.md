@@ -6,7 +6,7 @@
 
 **`Software Engineer`**
 
-👋 Hey there! I'm Muhammad Usama, a software engineer specializing in MERN and PERN stacks. I work with TypeScript, JavaScript, React, Next.js, Redux, Node.js, Express.js, MongoDB, PostgreSQL, and more. Passionate about creating helpful applications and assisting fellow developers. Let's connect and build impactful software solutions together.
+👋 Hey there! I'm Muhammad Zaeem Khan, a software engineer specializing in MERN and PERN stacks. I work with TypeScript, JavaScript, React, Next.js, Redux, Node.js, Express.js, MongoDB, PostgreSQL, and more. Passionate about creating helpful applications and assisting fellow developers. Let's connect and build impactful software solutions together.
 
 </div>
 
@@ -93,4 +93,4 @@ If you're looking for a dedicated collaborator or seeking assistance with your p
 
 ---
 
-![Blip](./assets/blip-cc-melodysheep.gif)
+<!-- ![Blip](./assets/blip-cc-melodysheep.gif) -->
