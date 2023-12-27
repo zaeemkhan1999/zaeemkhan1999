@@ -79,7 +79,7 @@
   <img alt="Coding" width="400" src="https://em-content.zobj.net/source/microsoft-teams/363/wolf_1f43a.png">
 </p>
 
-👋 Hey there! I'm Muhammad Usama, a passionate software engineer with a focus on creating impactful solutions. I specialize in the MERN (MongoDB, Express.js, React, Node.js) and PERN (PostgreSQL, Express.js, React, Node.js) stacks, but my expertise extends to various other frameworks as well.
+👋 Hey there! I'm Muhammad Zaeem, a passionate software engineer with a focus on creating impactful solutions. I specialize in the MERN (MongoDB, Express.js, React, Node.js) and PERN (PostgreSQL, Express.js, React, Node.js) stacks, but my expertise extends to various other frameworks as well.
 
 With a love for JavaScript and its powerful ecosystem, I enjoy crafting elegant and efficient code using technologies like React, Redux, Node.js, Express.js, MongoDB, PostgreSQL, and more. As a software engineer, I'm constantly exploring new possibilities and staying up to date with the latest industry trends.
 
