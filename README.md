@@ -56,7 +56,7 @@
 <div align="center">
   <h2 style="font-size: 35px;">📊 Stats</h2>
 
-  <p> <img src="https://komarev.com/ghpvc/?username=usamaweb&label=Profile%20views&color=009999&style=for-the-badge" alt="usamaweb" /> </p>
+  <p> <img src="https://komarev.com/ghpvc/?username=zaeemkhan1999&label=Profile%20views&color=009999&style=for-the-badge" alt="usamaweb" /> </p>
 
 <div class="stats" align="center">
 
